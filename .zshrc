@@ -27,7 +27,7 @@ export ZSH="/home/ilya/.oh-my-zsh"
 #fox
 #gnzh
 
-ZSH_THEME="gnzh"
+#ZSH_THEME="gnzh"
 
 
 # Set list of themes to pick from when loading at random
